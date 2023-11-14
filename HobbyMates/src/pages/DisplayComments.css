@@ -1,0 +1,45 @@
+
+.comment-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px; 
+    background-color: #efe2ee; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+    padding-right: 0%;
+}
+
+.comment-body {
+    margin-bottom: 5px;
+    color: #333; 
+}
+
+.delete-comment-btn {
+    background-color: #ff4d4f; 
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block; 
+}
+
+.delete-comment-btn:hover {
+    background-color: #d9363e; 
+}
+
+.add-comment-btn {
+    background-color: #5342eb;
+    color: rgb(225, 221, 221);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block; 
+}
+
+.add-comment-btn:hover {
+    background-color: #364cd9; 
+}
